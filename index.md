@@ -9,8 +9,8 @@
 
 			embeddedservice_bootstrap.init(
 				'00DJW000000q7pX',
-				'MIAW_Chatbot_TestWebsite',
-				'https://bordgaisenergyeandu--test.sandbox.my.site.com/ESWMIAWChatbotTestWebsi1712936040058',
+				'MIAW_Chatbot_Github',
+				'https://bordgaisenergyeandu--test.sandbox.my.site.com/ESWMIAWChatbotGithub1713263622188',
 				{
 					scrt2URL: 'https://bordgaisenergyeandu--test.sandbox.my.salesforce-scrt.com'
 				}
@@ -20,7 +20,7 @@
 		}
 	};
 </script>
-<script type='text/javascript' src='https://bordgaisenergyeandu--test.sandbox.my.site.com/ESWMIAWChatbotTestWebsi1712936040058/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'></script>
+<script type='text/javascript' src='https://bordgaisenergyeandu--test.sandbox.my.site.com/ESWMIAWChatbotGithub1713263622188/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'></script>
 
  </body>
   
