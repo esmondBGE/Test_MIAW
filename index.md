@@ -1,6 +1,6 @@
 <html>
 	TEST MIAW Version 1. 
-	Iteration 4. 
+	Iteration 5. 
 	21/11/2024
   	<body>
 		<script type='text/javascript'>
@@ -8,11 +8,11 @@
 		try {
 			embeddedservice_bootstrap.settings.language = 'en_US'; // For example, enter 'en' or 'en-US'
 			embeddedservice_bootstrap.init(
-				'00DJW000000q7pX',
-				'MIAW_Chatbot_Github',
-				'https://bordgaisenergyeandu--test.sandbox.my.site.com/ESWMIAWChatbotGithub1713263622188',
+				'00DS8000009ut4f',
+				'BGE_MIAWChatbot_TestWebsite',
+				'https://bordgaisenergyeandu--qafull.sandbox.my.site.com/ESWBGEMIAWChatbotTestWe1757000977419',
 				{
-					scrt2URL: 'https://bordgaisenergyeandu--test.sandbox.my.salesforce-scrt.com'
+					scrt2URL: 'https://bordgaisenergyeandu--qafull.sandbox.my.salesforce-scrt.com'
 				}
 			);
 		} catch (err) {
@@ -20,7 +20,7 @@
 		}
 	};
 </script>
-<script type='text/javascript' src='https://bordgaisenergyeandu--test.sandbox.my.site.com/ESWMIAWChatbotGithub1713263622188/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'></script>
+<script type='text/javascript' src='https://bordgaisenergyeandu--qafull.sandbox.my.site.com/ESWBGEMIAWChatbotTestWe1757000977419/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'></script>
 
 	 </body>  
 </html>
